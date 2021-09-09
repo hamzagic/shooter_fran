@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/2D Galaxy Assets/Game/_Scenes/Home.unity
+    guid: 59c7ea51dab20ae43bb61db620523966
+  - enabled: 1
+    path: Assets/2D Galaxy Assets/Game/_Scenes/Game.unity
+    guid: 6f9ecd7cc23164e46a821f31c3016a2b
+  - enabled: 1
+    path: Assets/2D Galaxy Assets/Game/_Scenes/ContinuePrompt.unity
+    guid: 7c6b40ed3ef2b854a96edd1a9d6ac8e3
+  - enabled: 1
+    path: Assets/2D Galaxy Assets/Game/_Scenes/Settings.unity
+    guid: a4dced054cb57f849983289f048c0c1e
+  m_configObjects: {}
